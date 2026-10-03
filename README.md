@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm PARK SUNGJUN 👋</h1>
+<h1 align="center">Hi, I'm SUNGJUN PARK 👋</h1>
 
 <p align="center">
-  Backend Engineer based in Japan 🇯🇵
+  Backend Engineer based in Japan.
 </p>
 
 <p align="center">
@@ -104,5 +104,5 @@ https://github.com/PARK-SUNGJUN-618/ilsengga
 🌐 **Portfolio**  
 https://ss-list.herokuapp.com/
 
-🇯🇵 **Ilsengga**  
+🌐 **Ilsengga**  
 https://ilsengga.com
